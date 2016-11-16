@@ -1,3 +1,4 @@
 This is a test
 And this is another
 Change to test 1
+Branch 1 changes
